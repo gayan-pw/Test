@@ -2,6 +2,10 @@ Update 1
 Update 2
 Update 3
 Update 4 Online
+<<<<<<< HEAD
 dev path update 1
 Add Feature
+update 5 (after online update, before pull)
+=======
 Online 5
+>>>>>>> origin/master
